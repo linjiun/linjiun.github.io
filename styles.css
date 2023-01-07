@@ -160,9 +160,6 @@ ul#topnav li > ul > li {
   font-size: 115%;
   line-height: 130%;
 }
-.pageitem a {
-  text-decoration: underline;
-}
 .pageitem .col {
   padding: 0 0px 0 0px;
 }
